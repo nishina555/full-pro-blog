@@ -1,0 +1,6 @@
+$ docker volume ls
+#-------------
+DRIVER VOLUME NAME
+local railsdockerstarter_bundle_install
+local railsdockerstarter_db
+#-------------
